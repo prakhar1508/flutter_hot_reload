@@ -37,7 +37,7 @@ MyApp() {
     child: Column(
       children: <Widget>[
         Image.network(
-            'https://github.com/prakhar1508/flutter1/raw/master/logo.png'),
+            'https://github.com/prakhar1508/flutter_hot_reload/raw/master/logo.png'),
         Text('Prakhar Manak Bohara'),
         Text('prakhar-manak-bohara-8a942418b'),
       ],
